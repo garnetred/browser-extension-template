@@ -1,4 +1,4 @@
-# Browser Extension Tempalte
+# Browser Extension Template
 
 ## Abstract
 This is a template for Chrome browser extensions.
